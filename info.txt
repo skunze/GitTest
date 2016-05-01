@@ -3,4 +3,6 @@ And everybody added even more!
 This file is going to expand towards infinity.
 Testing the automatic reloading of the editor...
 
+Added some stuff here.
+
 New feature sitting in here!
