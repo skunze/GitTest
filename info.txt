@@ -1,4 +1,4 @@
 Lots of info in here!
-And she added even more!
+And they added even more!
 This file is going to expand towards infinity.
 Testing the automatic reloading of the editor...
